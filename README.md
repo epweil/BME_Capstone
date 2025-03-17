@@ -16,7 +16,7 @@ cd Capstone  # Go to dir with capstone files outlined above
 python3 test_screen.py  # Run main program
 ```
 
-### Incase the virtual env gets deleated 
+Incase the virtual env gets deleated 
 ```bash
 python3 -m venv --system-site-packages env2  # Create new virtual env
 source env2/bin/activate  # Activate virtual env 
