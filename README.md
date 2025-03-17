@@ -12,17 +12,21 @@ Classes
 
 How to run:
       Do the following in the terminal
-       `cd` -> Go to home directory
-       `source env2/bin/activate` -> Activate virtual env 
-       `cd Capstone` -> Go to dir with capstone filed outlined above
-       `python3 test_screen.py` -> Run main program
+      ```
+       cd #Go to home directory
+       source env2/bin/activate #ctivate virtual env 
+       cd Capstone #Go to dir with capstone filed outlined above
+       python3 test_screen.py #Run main program
+       ```
       
 
       Incase the virtual env gets deleated 
-      `python3 -m venv --system-site-packages env2` -> Creates new virtual env
-      `source env2/bin/activate` -> Activate virtual env 
-      `cd Capstone` -> Go to dir with capstone filed outlined above
-      `pip3 install -r requir.txt` -> Install all necessary libraries
+      ```
+      python3 -m venv --system-site-packages env2 #Creates new virtual env
+      source env2/bin/activate #Activate virtual env 
+      cd Capstone #Go to dir with capstone filed outlined above
+      pip3 install -r requir.txt #Install all necessary libraries
+      ```
 
 
 
